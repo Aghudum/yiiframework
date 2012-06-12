@@ -15,7 +15,7 @@ class PostController extends Controller
 	public function filters()
 	{
 		return array(
-			'accessControl', // perform access control for CRUD operations. Hello
+			'accessControl', // perform access control for CRUD operations.
 		);
 	}
 
